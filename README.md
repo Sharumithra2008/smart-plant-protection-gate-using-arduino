@@ -33,6 +33,7 @@ We created a small plant protection model with a gate. The ultrasonic sensor was
 # 6\. Arduino Code
 
 The Arduino program reads the distance from the ultrasonic sensor and controls the servo motor according to the detected distance.
+![Result](smart_plant_protection_gate_circuit_setup.jpeg)
 
 # 7.Conclusion
 
